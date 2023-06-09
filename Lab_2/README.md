@@ -9,4 +9,4 @@ commit 28f6f106168114d5c13992f5bcaa7516150cacd6
 git checkout slave
 git checkout main
 
-![The Witcher](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![The Witcher](https://github.com/MatvieiShch/Matvey-Labs/blob/Lab_2/Lab_2/the-witcher-3-4k.jpg)
